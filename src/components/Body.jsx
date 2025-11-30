@@ -28,6 +28,9 @@ return (
             <RestroCards key={restaurant.card.card.id} resData={restaurant}/>
          ))}
      </div>
+     <div>
+      Ambarish
+     </div>
     </div>
   )
 }
